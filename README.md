@@ -5,22 +5,21 @@ It takes PNM images such as PPM (Portable Pixel Map), PGM (Portable Gray Map), a
 
 
 ### Usage
-
 1. Clone this repository to your local machine:
 
-git clone https://github.com/your_username/pnm-image-management.git
+  git clone https://github.com/your_username/pnm-image-management.git
 
 2. Navigate to the repository directory:
 
-cd pnm-image-management
+  cd pnm-image-management
 
 3. Compile the program:
 
-run " make " in the terminal
+  run " make " in the terminal
 
 4. Run the program with the desired input PNM files and specify the output file:
 
-./pnm -f PPM -i img/img.ppm -o img2.ppm
+  ./pnm -f PPM -i img/img.ppm -o img2.ppm
 
 
 ### Requirements
