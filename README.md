@@ -1,6 +1,7 @@
 ## PNM Image Management
 
 This repository contains a C program for managing PNM (Portable Any Map) images. 
+
 It takes PNM images such as PPM (Portable Pixel Map), PGM (Portable Gray Map), and PBM (Portable Bitmap) and pastes them into an output file.
 
 
